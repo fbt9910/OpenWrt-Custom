@@ -1,7 +1,3 @@
-###############改名字##############
-name: redmi-ax6000-padavanonly-23.05
-
-permissions: write-all
 # 开启写权限，防止无法上传到release
 
 on:
